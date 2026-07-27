@@ -75,6 +75,25 @@ Intelligent analytics platform for **Industry 4.0 photovoltaic systems** that pr
 🔗 **Repository:** https://github.com/c-c23/smart-pv-analytics
 
 ---
+---
+
+### 🤖 Multi-Agent Path Planning
+
+Simulation and optimization framework for cooperative multi-agent navigation using classical search algorithms and reservation-based coordination.
+
+**Key Features**
+- 🤝 Cooperative multi-agent path planning
+- 🗺️ A*, Dijkstra and BFS implementations
+- 📈 Performance benchmarking and statistical analysis
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Pygame](https://img.shields.io/badge/Pygame-2E8B57?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+🔗 **Repository:** https://github.com/c-c23/MULTI-AGENTE
 
 ### 🔐 IoT Secure Communication
 
@@ -87,13 +106,7 @@ Secure communication system for IoT devices implementing encrypted message excha
 ![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 
 🔗 **Repository:** https://github.com/c-c23/Proyecto-IoT-Encriptado
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-c23&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-c23&layout=compact&theme=github_dark)
 
 ---
 
