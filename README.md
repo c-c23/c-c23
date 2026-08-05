@@ -1,6 +1,6 @@
 # Hi there, I'm Cristian Camilo Galeano 👋
 
-### 🎓 Physics Engineer | M.Sc. Student in Electrical Engineering
+### 🎓 Physics Engineer 
 ### 📊 Data Science • Machine Learning • Business Intelligence
 
 I'm passionate about **Data Science, Artificial Intelligence, optimization, and software development**. I enjoy building data-driven solutions that transform information into actionable insights through analytics, machine learning, and engineering.
