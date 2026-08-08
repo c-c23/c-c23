@@ -1,9 +1,9 @@
 # Hi there, I'm Cristian Camilo Galeano 👋
 
-### 🎓 Physics Engineer 
-### 📊 Data Science • Machine Learning • Business Intelligence
+### 🎓 Physics Engineer | 💻 Software Developer
+### 🛠️ Python • SQL • Django • React • Data Analytics • Machine Learning
 
-I'm passionate about **Data Science, Artificial Intelligence, optimization, and software development**. I enjoy building data-driven solutions that transform information into actionable insights through analytics, machine learning, and engineering.
+I'm a Physics Engineer and Software Developer passionate about building software, data-driven solutions, and engineering applications. I enjoy developing applications, APIs, dashboards, and analytical solutions using programming, data analysis, machine learning, and computational methods.
 
 ---
 ## 🚀 Technologies & Tools
