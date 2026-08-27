@@ -139,6 +139,4 @@ Secure communication system for IoT devices implementing encrypted message excha
 
 📧 **Email:** **cristianga558@gmail.com**
 
----
 
-> *Turning data into decisions through engineering and AI.*
