@@ -1,9 +1,11 @@
 # Hi there, I'm Cristian Camilo Galeano 👋
 
 ### 🎓 Physics Engineer | 💻 Software Developer
-### 🛠️ Python • SQL • Django • React • Data Analytics • Machine Learning
+### 🛠️ Python • SQL • Django • React • Data Analytics • Machine Learning • LLMs • RAG
 
-I'm a Physics Engineer and Software Developer passionate about building software, data-driven solutions, and engineering applications. I enjoy developing applications, APIs, dashboards, and analytical solutions using programming, data analysis, machine learning, and computational methods.
+I'm a Physics Engineer and Software Developer focused on building software, data-driven solutions, and AI-powered applications. I work with Python, SQL, Django, React, data analytics, machine learning, LLMs, and RAG systems.
+
+I enjoy developing applications, APIs, dashboards, and intelligent systems that combine software engineering, data analysis, machine learning, and computational methods to solve practical problems.
 
 ---
 ## 🚀 Technologies & Tools
@@ -56,6 +58,48 @@ I'm a Physics Engineer and Software Developer passionate about building software
 
 ## ⭐ Featured Projects
 
+### 🤖 AI Knowledge Assistant
+
+LLM-powered knowledge assistant that combines Retrieval-Augmented Generation (RAG), vector search, web search, and intelligent query routing to provide context-aware answers from local and external information sources.
+
+**Key Features**
+- 🧠 Retrieval-Augmented Generation (RAG) with FAISS
+- 🔀 Intelligent query routing between RAG, web search, combined retrieval, and direct LLM responses
+- 🌐 External web search integration with DuckDuckGo
+- 📚 Support for PDF, TXT and CSV knowledge sources
+- 🔎 Semantic similarity search with embeddings
+- 📌 Source tracking for retrieved information
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-00ADD8?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-Embeddings-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-Web_Search-DE5833?style=flat-square&logo=duckduckgo&logoColor=white)
+
+🔗 **Repository:** https://github.com/c-c23/AI-Knowledge-Assistant
+
+### 🤖 Multi-Agent Path Planning
+
+Simulation and optimization framework for cooperative multi-agent navigation using classical search algorithms and reservation-based coordination.
+
+**Key Features**
+- 🤝 Cooperative multi-agent path planning
+- 🗺️ A*, Dijkstra and BFS implementations
+- 📈 Performance benchmarking and statistical analysis
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Pygame](https://img.shields.io/badge/Pygame-2E8B57?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+🔗 **Repository:** https://github.com/c-c23/MULTI-AGENTE
+
+
 ### 🌞 Smart PV Analytics
 
 Intelligent analytics platform for **Industry 4.0 photovoltaic systems** that predicts power generation and detects operating conditions using Machine Learning models.
@@ -75,25 +119,6 @@ Intelligent analytics platform for **Industry 4.0 photovoltaic systems** that pr
 🔗 **Repository:** https://github.com/c-c23/smart-pv-analytics
 
 ---
----
-
-### 🤖 Multi-Agent Path Planning
-
-Simulation and optimization framework for cooperative multi-agent navigation using classical search algorithms and reservation-based coordination.
-
-**Key Features**
-- 🤝 Cooperative multi-agent path planning
-- 🗺️ A*, Dijkstra and BFS implementations
-- 📈 Performance benchmarking and statistical analysis
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Pygame](https://img.shields.io/badge/Pygame-2E8B57?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
-🔗 **Repository:** https://github.com/c-c23/MULTI-AGENTE
 
 ### 🔐 IoT Secure Communication
 
