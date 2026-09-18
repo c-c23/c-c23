@@ -58,6 +58,45 @@ I enjoy developing applications, APIs, dashboards, and intelligent systems that 
 
 ## ⭐ Featured Projects
 
+### 🤖 AI Lead Management & Prioritization
+
+End-to-end intelligent lead management system for the motorcycle sales sector, combining **Machine Learning, NLP, PostgreSQL, business rules, automated assignment, and an interactive Streamlit CRM** to prioritize and distribute commercial leads according to their estimated conversion potential and operational urgency.
+
+**Key Features**
+- 📥 Multichannel lead ingestion from WhatsApp, Meta Ads, and web forms
+- 🧠 NLP-based extraction of commercial attributes from customer conversations
+- 📊 Hybrid lead scoring using **Logistic Regression + deterministic rule-based fallback**
+- 🎯 Explainable priority scoring from 0–100 with commercial temperature classification
+- 👥 Automatic lead assignment based on company, point of sale, advisor availability, and relative workload
+- ⚖️ Balanced distribution using advisor capacity and relative workload
+- 🗄️ Transactional and idempotent persistence with PostgreSQL
+- 📈 Interactive Streamlit CRM with operational dashboards and prioritized lead queues
+- 💬 Conversational simulator with finite-state-machine workflow and real-time persistence
+- 🔄 End-to-end pipeline for ingestion, extraction, scoring, assignment, and auditing
+- 🔐 Multi-company data isolation and transactional concurrency control
+
+**Machine Learning**
+- Logistic Regression trained on historical commercial outcomes
+- ROC-AUC: 0.611–0.629
+- PR-AUC: 0.138–0.152
+- Lift@10%: up to 1.56×
+- Explainable model outputs with stored scoring factors and decision reasons
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+🔗 **Repository:** https://github.com/c-c23/motos-AI
+
+---
+
 ### 🤖 AI Knowledge Assistant
 
 LLM-powered knowledge assistant that combines Retrieval-Augmented Generation (RAG), vector search, web search, and intelligent query routing to provide context-aware answers from local and external information sources.
