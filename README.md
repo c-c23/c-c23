@@ -1,6 +1,6 @@
 # Hi there, I'm Cristian Camilo Galeano 👋
 
-### 🎓 Physics Engineer | 💻 Software Developer
+### 🎓 Physics Engineer | 💻 Automation - Development
 ### 🛠️ Python • SQL • Django • React • Data Analytics • Machine Learning • LLMs • RAG
 
 I'm a Physics Engineer and Software Developer focused on building software, data-driven solutions, and AI-powered applications. I work with Python, SQL, Django, React, data analytics, machine learning, LLMs, and RAG systems.
