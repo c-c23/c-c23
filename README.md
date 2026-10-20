@@ -1,12 +1,16 @@
 # Hi there, I'm Cristian Camilo Galeano 👋
 
-### 🎓 Physics Engineer | 💻 Automation - Development
+### Desarrollador Full Stack Junior | Python · Django · React · SQL · APIs REST · Automatización
 ### 🛠️ Python • SQL • Django • React • Data Analytics • Machine Learning • LLMs • RAG
 
-I'm a Physics Engineer and Software Developer focused on building software, data-driven solutions, and AI-powered applications. I work with Python, SQL, Django, React, data analytics, machine learning, LLMs, and RAG systems.
+I'm Physics Engineer focused on building data-driven and AI-powered applications.  
+I develop web applications, REST APIs, dashboards and automation workflows using Python, Django, React, SQL and n8n.
 
-I enjoy developing applications, APIs, dashboards, and intelligent systems that combine software engineering, data analysis, machine learning, and computational methods to solve practical problems.
-
+## 🔎 Open to opportunities
+- Full Stack Developer (Python/Django/React)
+- Backend Developer (Python/Django)
+- Automation / Integrations Developer
+- Data Analyst / BI Analyst
 ---
 ## 🚀 Technologies & Tools
 
@@ -119,6 +123,91 @@ LLM-powered knowledge assistant that combines Retrieval-Augmented Generation (RA
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-Web_Search-DE5833?style=flat-square&logo=duckduckgo&logoColor=white)
 
 🔗 **Repository:** https://github.com/c-c23/AI-Knowledge-Assistant
+
+
+### Django React Task Manager
+Full-stack task management application built with Django REST Framework and React.  
+It provides a decoupled client-server architecture, REST API consumption, authentication-ready structure and a responsive dashboard for creating, tracking and updating tasks.
+
+## 🧱 Architecture
+
+```text
+React + Vite (SPA)
+        │
+        ├── REST API calls
+        ▼
+Django + Django REST Framework
+        │
+        ▼
+PostgreSQL / MySQL
+```
+
+## ✨ Features
+
+- Create, read, update and delete tasks through a REST API.
+- Responsive dashboard built with React, Vite and Tailwind CSS.
+- Form validation and error handling with React Hook Form.
+- Instant feedback with React Hot Toast.
+- Decoupled frontend and backend communication.
+- REST endpoints for task management: `GET`, `POST`, `PUT`, `DELETE`.
+- Modular frontend structure: components, pages and API service layer.
+
+## 🛠️ Tech Stack
+
+**Backend**
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL / MySQL
+- Django CORS Headers
+
+**Frontend**
+- React
+- Vite
+- Tailwind CSS
+- React Hook Form
+- React Hot Toast
+- Axios / Fetch API
+
+## ⚙️ API Endpoints
+
+| Method | Endpoint | Description |
+|---|---|---|
+| GET | `/tasks/api/v1/tasks/` | List tasks |
+| POST | `/tasks/api/v1/tasks/` | Create task |
+| PUT | `/tasks/api/v1/tasks/{id}/` | Update task |
+| DELETE | `/tasks/api/v1/tasks/{id}/` | Delete task |
+
+## 🧪 Running locally
+
+### Backend
+
+```bash
+cd backend
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
+```
+
+### Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+## 📌 Roadmap
+- [ ] User authentication with JWT
+- [ ] Task status: pending, in progress, completed
+- [ ] Filters, search and sorting
+- [ ] Unit and integration tests
+- [ ] Docker Compose setup
+- [ ] CI with GitHub Actions
+
+🔗 **Repository:** https://github.com/c-c23/django-react-task-manager
 
 ### 🤖 Multi-Agent Path Planning
 
